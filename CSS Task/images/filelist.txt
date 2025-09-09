@@ -1,0 +1,11 @@
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\about-me.png
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\bg.jpg
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\blog.png
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\contact.png
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\filelist.txt
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\Mostafa.jpg
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\portfolio.jpg
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\project-1.png
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\project-2.png
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\project-3.png
+C:\Users\Mostafa\OneDrive\Desktop\CSS Task\images\projects.png

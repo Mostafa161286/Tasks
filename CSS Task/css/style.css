@@ -1,0 +1,84 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+   
+
+}
+body{
+    background-color: aqua;
+}
+.card-container{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 10px;
+align-items: stretch;
+margin-top: 100px;
+
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.card img{
+
+    width: 100px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+.about img{
+width: 150px;
+height: auto;
+float: right;
+margin-left: 20px;
+border-radius: 10px;
+
+}
+.about{
+overflow: auto;
+
+}
+.header img{
+    width: 120px;
+    height: auto;
+    float: right;
+    border-radius: 10px;
+
+}
+.header{
+    overflow: auto;
+}
+.table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.projects .card-container{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 10px;
+align-items: stretch;
+margin-top: 100px;
+
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.article{
+background-color: brown;
+border-left: 15px;
+padding: 15px;
+margin-bottom: 20px;
+}
+.article .blog{
+font-weight: bold;
+
+} 

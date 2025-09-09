@@ -1,0 +1,65 @@
+User Flow Description
+1. Landing on the Home Page
+Visitor opens the website URL (e.g., index.html).
+
+Browser loads index.html and renders:
+
+View (HTML): header with site logo and navigation links, hero banner, featured projects/blog previews.
+
+Style (CSS): page layout, colors, typography, responsive design.
+
+The homepage welcomes the visitor and highlights key content.
+
+2. Browsing Projects
+User clicks “Projects” in the navigation menu.
+
+Browser scrolls to the #projects section on the homepage or loads projects.html.
+
+View: displays a grid of project cards showing images and summaries.
+
+User clicks a project card → browser navigates to projects/project-slug.html with full project details.
+
+Style: CSS styles for grid layout, cards, and project pages.
+
+3. Reading the Blog
+User clicks “Blog” in the navigation menu.
+
+Browser loads blog.html showing a list of blog post previews.
+
+View: blog post cards with titles, dates, and snippets.
+
+User clicks a blog post → browser opens blog/post-slug.html with the full article.
+
+Style: CSS for blog listing and individual post formatting.
+
+4. Contacting the Owner
+User clicks “Contact” link in the navigation or footer.
+
+Browser scrolls to the #contact section or loads contact.html.
+
+View: contact form with input fields for name, email, and message.
+
+User fills and submits the form.
+
+External Service: form data is sent to a static form handling service (e.g., Formspree).
+
+Confirmation message appears upon successful submission.
+
+Style: CSS for form styling and confirmation messages.
+
+Recommended Folder Structure
+bash
+Copy
+Edit
+/ (root)  
+│  
+├── index.html  
+├── projects.html  
+├── blog.html  
+├── contact.html  
+├── /projects/   
+├── /blog/  
+│    └── post-slug.html  
+├── /assets/  
+│    ├── /images/  
+│    ├── /styles/  
